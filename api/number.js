@@ -1,5 +1,3 @@
-// pages/api/number.js
-// Next.js Pages Router API Route
 export default async function handler(req, res) {
   // CORS preflight handling
   if (req.method === 'OPTIONS') {
